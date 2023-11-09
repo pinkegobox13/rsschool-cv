@@ -32,7 +32,7 @@ function solution(number){
 }
 ```
 ### Education 
-Undergraduate of Institute of computer technologies and information security, Southern Federal University, Russia.
+Undergraduate of Institute of computer technologies and information security, Southern Federal University, Russia
 ### Languages
 - Russian - Native
 - English - C1
